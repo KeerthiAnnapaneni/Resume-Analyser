@@ -1,0 +1,4 @@
+Resume Analysis Report
+Score: 33.33%
+Matched Skills: python, sql
+Missing Skills: react, html, javascript, java

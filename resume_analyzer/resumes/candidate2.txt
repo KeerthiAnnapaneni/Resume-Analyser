@@ -1,0 +1,6 @@
+John Doe  
+johndoe@example.com  
+9876543210  
+
+Skills:  
+Python, C++, HTML, CSS  

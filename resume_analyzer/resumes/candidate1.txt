@@ -1,0 +1,6 @@
+keerthi annapaneni
+phone: 8309424101
+email: keerthi@email.com
+skills:python,sql,machine learning
+experience: 2 years
+education: computers degree in btech
